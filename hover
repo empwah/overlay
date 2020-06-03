@@ -1,0 +1,24 @@
+<!-- Code for slide-over content ECB -->
+<!—Background image and link -->
+<div class="hollow"><a href="https://allhallows.libguides.com/research"><img alt="imaging-today" class="imaging" loading="lazy" src="//libapps-au.s3-ap-southeast-2.amazonaws.com/accounts/204005/images/research.png" /></a> <a href="https://allhallows.libguides.com/research">
+
+<!—Slide over content
+<div class="overlay">
+
+<!—Slide over title 
+<div class="text"><b>Research</b></div>
+
+<!—Slide over list 
+<div class="texttwo">
+<ul>
+	<li>Research guides</li>
+	<li>Referencing</li>
+	<li>Databases</li>
+	<li>Research skills</li>
+	<li>Copyright</li>
+	<li>Accessing other libraries</li>
+</ul>
+</div>
+</div>
+</a>
+</div>
