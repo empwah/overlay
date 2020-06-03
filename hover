@@ -67,12 +67,10 @@ white-space: nowrap;
 <!—Slide over list 
 <div class="texttwo">
 <ul>
-	<li>Research guides</li>
-	<li>Referencing</li>
-	<li>Databases</li>
-	<li>Research skills</li>
-	<li>Copyright</li>
-	<li>Accessing other libraries</li>
+	<li>ITEM 1</li>
+	<li>ITEM 2</li>
+	<li>ITEM 3</li>
+	<li>ITEM 4</li>
 </ul>
 </div>
 </div>
