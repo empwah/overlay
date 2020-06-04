@@ -56,7 +56,7 @@ white-space: nowrap;
 
 <!-- Code for slide-over content ECB -->
 <!—Background image and link -->
-<div class="hollow"><a href="https://allhallows.libguides.com/research"><img alt="imaging-today" class="imaging" loading="lazy" src="//libapps-au.s3-ap-southeast-2.amazonaws.com/accounts/204005/images/research.png" /></a> <a href="https://allhallows.libguides.com/research">
+<div class="hollow"><img alt="imaging-today" class="imaging" loading="lazy" src="BACKGROUND IMAGE URL" /></a> <a href="URL OF THE PAGE THIS WILL LINK TO">
 
 <!—Slide over content
 <div class="overlay">
